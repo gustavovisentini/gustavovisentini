@@ -1,6 +1,6 @@
 ## Hi there 👋
 - :dart: I'm an iOS, Android and Flutter developer.
-- :ear_of_rice: Developing applications focused on agriculture whit computer vision and DSSAT crop models.
+- :ear_of_rice: Developing applications focused on agriculture with computer vision and DSSAT crop models.
 - :school: PhD in Agronomy, Msc in Applied Computing and Computer Scientist.
 - :mortar_board: Professor at Computer Science in URI-Erechim.
 
