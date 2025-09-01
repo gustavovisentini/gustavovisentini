@@ -2,7 +2,7 @@
 - :dart: I'm an iOS, Android and Flutter developer.
 - :ear_of_rice: Developing applications focused on agriculture with computer vision, crop models and high performance computing.
 - :school: PhD in Agronomy, Msc in Applied Computing and Computer Scientist.
-- :mortar_board: Research Scholar at University of Florida and Professor at Computer Science in URI-Erechim.
+- :mortar_board: Postdoc Research at University of Florida and Professor at Computer Science in URI-Erechim.
 
 ### Contact:
 
